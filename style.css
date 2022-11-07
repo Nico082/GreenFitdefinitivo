@@ -1,0 +1,49 @@
+body {
+    background-color: #98dbbe;
+    font-family: Verdana;
+  }
+
+  header {
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    position: absolute;
+
+  }
+  
+  nav {
+    float: left;
+  }
+  
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+  
+  nav ul li {
+    float: left;
+    font-family: verdana;
+    font-size: 16px;
+  }
+  nav ul li a {
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  nav ul li:hover {
+    background: #23b574;
+  }
+
+
+p {
+    border: 2px solid powderblue;
+    font-family: verdana;
+  }
+
+  h1{
+
+    font-family: verdana;
+    margin: 50px;
+
+  }
+
